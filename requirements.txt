@@ -1,6 +1,6 @@
 
 tensorflow
-ipython==8.5.0
+
 keras==2.8.0
 #matplotlib==3.2.2
 numpy==1.21.6
